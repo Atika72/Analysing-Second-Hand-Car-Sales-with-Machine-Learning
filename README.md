@@ -79,7 +79,3 @@ The notebook compares model performance across different features and regression
 
 - The dataset should stay in the same directory as the notebook for the file loading step to work correctly.
 - Some cells may take longer to run depending on your machine and dataset size.
-
-## License
-
-Add a license here if you want to share or reuse this project publicly.
